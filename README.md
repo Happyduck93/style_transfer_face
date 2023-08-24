@@ -5,7 +5,7 @@ This project seeks to develop a deep learning model for producing pop art. The p
 
 
 ## Result
-![Generated Pop Art](result.jpg)
+![Generated Pop Art](images/result.jpg)
 
 
 ## References
