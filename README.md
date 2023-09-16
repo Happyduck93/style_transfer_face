@@ -22,3 +22,10 @@ This project seeks to develop a deep learning model for producing pop art. The p
 [6] Jacq, A. (n.d.). Neural transfer using pytorch¶. Neural Transfer Using PyTorch - PyTorch Tutorials 2.0.0+cu117 documentation. Retrieved April 23, 2023, from https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
 
 [7] Smiling woman holding cheek. (2019). unsplash. Retrieved from https://unsplash.com/photos/B4TjXnI0Y2c.
+
+
+## Note: Cleared Code Output
+
+In this notebook, certain code output has been intentionally cleared or suppressed to reduce the file size. This has been done to make the notebook more manageable for GitHub.
+
+If you need to view the original code output, you can run the code cells locally in a Jupyter environment.
